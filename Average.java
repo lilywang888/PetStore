@@ -38,6 +38,7 @@ public class Average {
          System.out.println("a % b / y=");
          System.out.println("b % a=");
          System.out.println("w % y=");
+		 System.out.println();
          
          scan.close();
          
